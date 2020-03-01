@@ -134,7 +134,7 @@ def splineConstructor(list_x, list_fx, evaluatee):
     return spline_to_use
 
 
-# Neville's Method
+# Neville's Algorithm
 def nevillesMethod(x, list_x, list_fx, Q_table=None):
     n = np.size(list_x) - 1;
     if (Q_table == None):
@@ -154,7 +154,7 @@ def nevillesMethod(x, list_x, list_fx, Q_table=None):
     return Q_table[n][n], Q_table;
 
 
-# Lagrange Interpolation Method
+# Lagrange Interpolation Algorithm
 def lagrangePolynomial(nodes, function_nodes):
     degree_specification = len(nodes) - 1
     x = Symbol("x")
