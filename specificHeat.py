@@ -21,7 +21,7 @@ def main():
     # Given data set 2
     (list_x2, list_fx2) = ([10, 30, 50, 70, 90], [4192, 4178, 4182, 4191, 4208])
 
-    # Temperatures to approximate Specific Heat of, and their
+    # Temperatures to approximate Specific Heat of temperatures and their
     # measured specific heats for comparison
     (x1, fx1) = (25, 4180)
     (x2, fx2) = (85, 4203)
