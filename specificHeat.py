@@ -34,7 +34,7 @@ def main():
 
     for i in range(len(data_sets)):
         set_num = i + 1
-        print(""" \nFor x = {} degrees CELSIUS, the actual Specific Heat is {} J/(C kg).
+        print(""" \nFor x = {} degrees Celsius, the actual Specific Heat is {} J/(C kg).
         We will use dataset {}:
         Our given (water temperatures) to be used are: {}
         The Specific heats evaluated at the nodes are: {}
