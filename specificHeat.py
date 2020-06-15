@@ -15,7 +15,7 @@ from sympy import Symbol, factor, lambdify
 
 def main():
 
-    # Given data set 1
+    # Given data 
     (list_x1, list_fx1) = ([20, 40, 50, 80, 90],[4182, 4179, 4182, 4198, 4208])
 
     # Given data set 2
