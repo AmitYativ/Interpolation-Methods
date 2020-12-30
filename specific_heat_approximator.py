@@ -2,17 +2,17 @@
 
 # Author: Amit Yativ
 
-"""Program Description:
+import numpy as np
+from sympy import Symbol, factor, lambdify
+
+""" Program Description:
 This program utilizes methods of approximation, via interpolation,
 to approximate the Specific Heat, with units of
 joules per Celsius and kilogram, i.e. J/(C kg), of water at a certain
 temperature in degrees Celsius, given measured data. Other substances
 can be applied to this instead.
-"""
 
-# Imports
-import numpy as np
-from sympy import Symbol, factor, lambdify
+"""
 
 def main():
 
