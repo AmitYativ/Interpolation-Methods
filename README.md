@@ -1,3 +1,3 @@
-# Specific Heat Approximation
+# Specific Heat Approximation By Interpolation
 
-This program utilizes interpolation methods, such as Spline Interpolation, Lagrange Interpolation, and Neville's Algorithm, to calculate Specific Heat of temperature nodes of a substance, and compares the approximations to measured data.
+This program is written in Python and utilizes interpolation methods, such as Spline Interpolation, Lagrange Interpolation, and Neville's Algorithm, to calculate Specific Heat of temperature nodes of a substance, and compares the approximations to measured data.
