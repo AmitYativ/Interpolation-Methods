@@ -4,4 +4,4 @@ This script is written in Python and utilizes interpolation methods, such as Spl
 
 ## Sample Output:
 
-![sample_output_SH](https://user-images.githubusercontent.com/32584372/104167139-b884ea00-53b0-11eb-8d30-fe8acb6eb015.jpg)
+![sample_output_SH](sample_output/sample_output_SH.jpg)
