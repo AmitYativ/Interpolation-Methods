@@ -4,4 +4,5 @@ This script is written in Python and utilizes interpolation methods, such as Spl
 
 # Sample Output:
 
-!Sample Output - Specific Heat Approx.(https://github.com/AmitYativ/Specific-Heat-Approximation-Intrpltn/blob/master/sample_output_SH.jpg?raw=true)
+!Sample Output - Specific Heat Approx.(https://github.com/AmitYativ/Specific-Heat-Approximation-Intrpltn/blob/master/sample_output/sample_output_SH.jpg
+?raw=true)
