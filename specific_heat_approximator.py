@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-# Author: Amit Yativ
-
 import numpy as np
 from sympy import Symbol, factor, lambdify
 
